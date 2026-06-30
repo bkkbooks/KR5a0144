@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5a0144/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5a0144/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 紫陽真人悟真直指詳說三乘祕要
+  date: '2015-08-28 23:39:01.977226'
+  source:
+    repository: kanripo
+    path: KR5a0144
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0144_000-YP-C.yaml, hash: 'sha256:7a77cba0e7a87ab160e2ea9da5b818255a84da44ed4b70468d8a8a933fc28618'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0144_000-YP-C.markers.yaml, hash: 'sha256:7f18f81a69c5af2e271202c3a620b2354fa495a9ef0b2be9e0511d557bfe1635'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0144_YP-C_15kuiji-02-0128a
+    span:
+    - body
+    - 0
+    - 3809
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:3c00ae859846e31cc8fd7097f1fee00bceacc8bfbe4ed3b484533609a04b54b9

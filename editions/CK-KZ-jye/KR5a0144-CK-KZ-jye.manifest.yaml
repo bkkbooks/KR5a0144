@@ -1,0 +1,59 @@
+canonical_identifier: bkk:krp/KR5a0144/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5a0144/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 紫陽真人悟真直指詳說三乘祕要
+  date: '2015-08-28 23:39:01.977226'
+  source:
+    repository: kanripo
+    path: KR5a0144
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0144_000-CK-KZ-jye.yaml, hash: 'sha256:d687004d27797606303f8518f113c81dbf09ea2fc787fcf0798c877ddbe9b63f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0144_000-CK-KZ-jye.markers.yaml, hash: 'sha256:8478ebf8a49851ccbbeb7e4e014de1281e88fbfb2e6d67310700edfd04c87896'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0144_CK-KZ-jye_000-h2
+    span:
+    - body
+    - 0
+    - 208
+  label: 强兵戰勝之術
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5a0144_CK-KZ-jye_000-h3
+    span:
+    - body
+    - 208
+    - 779
+  label: 富國安民之法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5a0144_CK-KZ-jye_000-h4
+    span:
+    - body
+    - 779
+    - 1554
+  label: 神仙抱一之道
+  type: section
+  level: 2
+hash: sha256:16c874349c1eb649389a6989fe9fc23edbe9625af6b6196ba028cb1defaea1f2
