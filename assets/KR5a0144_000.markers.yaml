@@ -410,6 +410,7 @@ markers:
   - {type: variant, offset: 815, length: 3, content: 一作天, CK-KZ: ''}
   - {type: variant, offset: 815, length: 3, content: 一作天, CK-KZ-jye: ''}
   - {type: variant, offset: 815, length: 3, content: 一作天, YP-C: ''}
+  - {type: voice, offset: 815, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 817, content: /, id: KR5a0144_krp_000-bkkpn2}
   - {type: punctuation, offset: 818, content: ), id: KR5a0144_krp_000-bkkpn3}
   - {type: variant, offset: 824, length: 0, content: '', CK-KZ: 漏}
@@ -3913,4 +3914,4 @@ markers:
 
       ', id: KR5a0144_krp_000-bkkkrnewl725}
   back: []
-hash: sha256:2f60587752bfefe8e0231e4a1df40b7787b00c6817bc9872f6a67135b490bf27
+hash: sha256:26c4233420b050f5edd5b2b21def426edb39de8a99855bcf17ff55e9070e6e78
